@@ -87,7 +87,7 @@ var demos = [
       "Touch or click the screen!"
     ],
   },
-  {
+  /*{
     header: legacyHeader,
     name: 'Additive Color',
     path: 'additive-color',
@@ -97,8 +97,8 @@ var demos = [
     description: [
       "Move your mouse or fingers around the screen!",
     ],
-  },
-  {
+  },*/
+  /*{
     header: legacyHeader,
     name: 'Rolio',
     description: [
@@ -108,7 +108,7 @@ var demos = [
     preview: 'resources/icons/rolio.png',
     shade: '#178f46',
     darkTheme: true,
-  },
+  },*/
   // FIXME: Unknown. Nothing happens.
   // {
   //   header: legacyHeader,
@@ -132,10 +132,10 @@ var demos = [
   // FIXME: Needs polish.
   // {name: 'Walking'},
   // FIXME: Not ported to web-animations-next.
-  {
+  /*{
     header: legacyHeader,
     name: 'Breakout',
     preview: 'resources/icons/breakout.png',
     shade: '#eee',
-  },
+  },*/
 ];
